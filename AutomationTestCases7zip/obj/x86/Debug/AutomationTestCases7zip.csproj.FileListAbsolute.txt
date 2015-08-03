@@ -1,0 +1,19 @@
+C:\Users\SUDO\AppData\Local\Temporary Projects\AutomationTestCases7zip\bin\Debug\AutomationTestCases7zip.exe
+C:\Users\SUDO\AppData\Local\Temporary Projects\AutomationTestCases7zip\bin\Debug\AutomationTestCases7zip.pdb
+C:\Users\SUDO\AppData\Local\Temporary Projects\AutomationTestCases7zip\obj\x86\Debug\AutomationTestCases7zip.exe
+C:\Users\SUDO\AppData\Local\Temporary Projects\AutomationTestCases7zip\obj\x86\Debug\AutomationTestCases7zip.pdb
+C:\Users\SUDO\documents\visual studio 2010\Projects\AutomationTestCases7zip\AutomationTestCases7zip\obj\x86\Debug\AutomationTestCases7zip.exe
+C:\Users\SUDO\documents\visual studio 2010\Projects\AutomationTestCases7zip\AutomationTestCases7zip\obj\x86\Debug\AutomationTestCases7zip.pdb
+C:\Users\JhasmanyQuiroz\Desktop\AutomationTestCases7zip\AutomationTestCases7zip\obj\x86\Debug\AutomationTestCases7zip.exe
+C:\Users\JhasmanyQuiroz\Desktop\AutomationTestCases7zip\AutomationTestCases7zip\obj\x86\Debug\AutomationTestCases7zip.pdb
+C:\Users\JhasmanyQuiroz\Desktop\AutomationTestCases7zip\AutomationTestCases7zip\bin\Debug\AutomationTestCases7zip.exe
+C:\Users\JhasmanyQuiroz\Desktop\AutomationTestCases7zip\AutomationTestCases7zip\bin\Debug\AutomationTestCases7zip.pdb
+C:\Users\JhasmanyQuiroz\Desktop\AutomationTestCases7zip\AutomationTestCases7zip\obj\x86\Debug\AutomationTestCases7zip.csprojResolveAssemblyReference.cache
+C:\Users\Jorge\Documents\Visual Studio 2015\Projects\AutomationTestCases7zip\AutomationTestCases7zip\bin\Debug\AutomationTestCases7zip.exe.config
+C:\Users\Jorge\Documents\Visual Studio 2015\Projects\AutomationTestCases7zip\AutomationTestCases7zip\bin\Debug\AutomationTestCases7zip.exe
+C:\Users\Jorge\Documents\Visual Studio 2015\Projects\AutomationTestCases7zip\AutomationTestCases7zip\bin\Debug\AutomationTestCases7zip.pdb
+C:\Users\Jorge\Documents\Visual Studio 2015\Projects\AutomationTestCases7zip\AutomationTestCases7zip\bin\Debug\EntityFramework.dll
+C:\Users\Jorge\Documents\Visual Studio 2015\Projects\AutomationTestCases7zip\AutomationTestCases7zip\bin\Debug\EntityFramework.xml
+C:\Users\Jorge\Documents\Visual Studio 2015\Projects\AutomationTestCases7zip\AutomationTestCases7zip\obj\x86\Debug\AutomationTestCases7zip.csprojResolveAssemblyReference.cache
+C:\Users\Jorge\Documents\Visual Studio 2015\Projects\AutomationTestCases7zip\AutomationTestCases7zip\obj\x86\Debug\AutomationTestCases7zip.exe
+C:\Users\Jorge\Documents\Visual Studio 2015\Projects\AutomationTestCases7zip\AutomationTestCases7zip\obj\x86\Debug\AutomationTestCases7zip.pdb
