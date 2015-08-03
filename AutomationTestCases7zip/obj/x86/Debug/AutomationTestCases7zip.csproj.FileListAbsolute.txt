@@ -17,3 +17,6 @@ C:\Users\Jorge\Documents\Visual Studio 2015\Projects\AutomationTestCases7zip\Aut
 C:\Users\Jorge\Documents\Visual Studio 2015\Projects\AutomationTestCases7zip\AutomationTestCases7zip\obj\x86\Debug\AutomationTestCases7zip.csprojResolveAssemblyReference.cache
 C:\Users\Jorge\Documents\Visual Studio 2015\Projects\AutomationTestCases7zip\AutomationTestCases7zip\obj\x86\Debug\AutomationTestCases7zip.exe
 C:\Users\Jorge\Documents\Visual Studio 2015\Projects\AutomationTestCases7zip\AutomationTestCases7zip\obj\x86\Debug\AutomationTestCases7zip.pdb
+C:\Users\cecita\Documents\GitHub\zipAutomation\AutomationTestCases7zip\bin\Debug\AutomationTestCases7zip.exe.config
+C:\Users\cecita\Documents\GitHub\zipAutomation\AutomationTestCases7zip\obj\x86\Debug\AutomationTestCases7zip.exe
+C:\Users\cecita\Documents\GitHub\zipAutomation\AutomationTestCases7zip\obj\x86\Debug\AutomationTestCases7zip.pdb

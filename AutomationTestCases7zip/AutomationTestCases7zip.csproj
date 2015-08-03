@@ -54,6 +54,7 @@
     <Compile Include="Report.cs" />
     <Compile Include="TCSerializer.cs" />
     <Compile Include="TestCase.cs" />
+    <Compile Include="UI.cs" />
     <Compile Include="Zipper.cs" />
   </ItemGroup>
   <ItemGroup>
